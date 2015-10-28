@@ -4,8 +4,7 @@ Foton is a port of the WindowBlinds/Visual Style made by OmART: http://omart.dev
 # Changelog:
 - 8-7-09: Original Release
 
-- 8-9-09: 
-1. Changed Metacity borders and buttons. Blended everything better.
-2. Added tabs from original msstyles
-3. Changed progress bars and troughs.
-4. Various other minor enhancements
+- 8-9-09: Changed Metacity borders and buttons. Blended everything better, added tabs from original msstyles, changed progress bars and troughs and various other minor enhancements
+
+# Credits to
+[dlkreations](http://gnome-look.org/usermanager/search.php?username=dlkreations)
