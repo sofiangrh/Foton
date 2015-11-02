@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Foton
+Type=X-GNOME-Metatheme
+Comment=Foton: GTK theme based on the Visual Style by OmART of the same name
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Foton
+MetacityTheme=Foton
+IconTheme=hydroxygen
+CursorTheme=default
+CursorSize=32
+NotificationTheme=standard
+
